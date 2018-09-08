@@ -1,0 +1,133 @@
+/* .A{
+    border: 1px solid red;
+}
+.B{
+    border: 1px solid green;
+}
+.C{
+    border: 1px solid blue;
+} */
+.event_box{
+    height: 35vmin;
+    /* border:1px solid green; */
+    margin-left:auto;
+    margin-right:auto;
+}
+.event_box2{
+    height: 35vmin;
+    /* border:1px solid blue; */
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.event_tile{
+    width:98%;
+    height:90%;
+    padding-top: 10px;
+    padding-left: 15px;
+    /* border:1px solid red; */
+    border-radius: 2%;
+    position: relative;
+    transition: all .2s ease-in-out;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .14), 0 3px 1px -2px rgba(0, 0, 0, .2), 0 1px 5px 0 rgba(0, 0, 0, .12);
+}
+
+.event_tile:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+    background-color: #f5f5f5;
+}
+
+.event_tile2{
+    width:98%;
+    height:100%;
+    padding-top: 10px;
+    padding-left: 15px;
+    /* border:1px solid brown; */
+    border-radius: 2%;
+    position: relative;
+    transition: all .2s ease-in-out;
+    /* box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .14), 0 3px 1px -2px rgba(0, 0, 0, .2), 0 1px 5px 0 rgba(0, 0, 0, .12); */
+}
+
+.map {
+    height: 35vmin;
+    /* border:1px solid green; */
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.dist {
+    bottom:2%;
+    position:absolute;
+    color: #818181;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size:2vmin;
+}
+.dist2 {
+    bottom:2%;
+    position:absolute;
+    color: #818181;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size:2.5vmin;
+}
+
+.title {
+    font-size: 3vmin;
+    font-family: 'BioRhyme', serif;
+}
+.title2 {
+    font-size: 4vmin;
+    font-family: 'BioRhyme', serif;
+}
+
+.cost {
+    font-family: 'Scope One', serif;
+    font-size:2vmin;
+}
+.cost2 {
+    font-family: 'Scope One', serif;
+    font-size:2vmin;
+}
+
+.date {
+    margin-top:4px;
+    font-family: 'Scope One', serif;
+    font-size:2vmin;
+}
+.date2 {
+    margin-top:4px;
+    font-family: 'Scope One', serif;
+    font-size:2vmin;
+}
+.time {
+    font-family: 'Scope One', serif;
+    font-size:2vmin;
+}
+.time2 {
+    font-family: 'Scope One', serif;
+    font-size:2vmin;
+}
+.black {
+    color: #1b1b1b;
+}
+
+.loc {
+    color: #818181;
+    font-family: 'Scope One', serif;
+}
+
+.ebox {
+    /* border: 1px solid pink; */
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.ehead {
+    font-size: 5vmin;
+    font-family: 'BioRhyme', serif;
+}
+
+.top{
+    margin-top:3vmin;
+}
