@@ -9,7 +9,7 @@ There are two methods for getting started with this repo.
 #### Familiar with Git?
 ```
 > git clone https://github.com/sahilverma2209/yelp-fusion-api-event-search.git
-> cd ReduxSimpleStarter
+> cd yelp-fusion-api-event-search
 > npm install
 > npm start
 ```
