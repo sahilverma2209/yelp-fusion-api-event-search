@@ -43,7 +43,7 @@ class EventList extends Component {
             // console.log('after sort :' ,new_event_list);
             return _.map(new_event_list, post => {
                 let cost='';
-                if(post.cost){cost = 'Cost = $'+post.cost}else cost='Cost not provided';
+                if(post.cost){cost = 'Cost = $'+post.cost}else cost='Free entry';
                 let dt = post.time_start;
                 let date = dt.slice(0,10);
                 let time = dt.slice(11, dt.length);
@@ -90,6 +90,7 @@ class EventList extends Component {
                 </div>
 
                 <div className="row">
+                yolo
                     {this.renderList()}
                 </div>
 
