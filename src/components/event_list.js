@@ -90,7 +90,7 @@ class EventList extends Component {
                 </div>
 
                 <div className="row">
-                yolo
+                
                     {this.renderList()}
                 </div>
 
