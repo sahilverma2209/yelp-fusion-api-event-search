@@ -1,0 +1,144 @@
+{
+    "extension": "linecount",
+    "version": "0.1.7",
+    "workspace": "/Users/sahilverma/stuff/react_projects/yelp-fusion-api-event-search",
+    "linecount": [
+        {
+            "version": "0.1.7",
+            "counttime": "2019-01-03 23:27:21",
+            "filesum": 21,
+            "codesum": 4645,
+            "commentsum": 47,
+            "blanksum": 94,
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "LICENSE.MD"
+                },
+                {
+                    "blank": 0,
+                    "code": 4034,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 6,
+                    "code": 17,
+                    "comment": 1,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 9,
+                    "code": 33,
+                    "comment": 8,
+                    "filename": "src/actions/index.js"
+                },
+                {
+                    "blank": 10,
+                    "code": 90,
+                    "comment": 3,
+                    "filename": "src/components/event.js"
+                },
+                {
+                    "blank": 11,
+                    "code": 95,
+                    "comment": 2,
+                    "filename": "src/components/event_list.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 50,
+                    "comment": 3,
+                    "filename": "src/components/geolocation.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src/components/home.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "src/components/map.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "src/index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src/reducers/index.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 9,
+                    "comment": 7,
+                    "filename": "src/reducers/reducer_event_list.js"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 1,
+                    "filename": "src/reducers/reducer_loc_input.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 10,
+                    "comment": 6,
+                    "filename": "src/reducers/reducer_location.js"
+                },
+                {
+                    "filename": "Steps to run the project.docx",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 12,
+                    "code": 105,
+                    "comment": 16,
+                    "filename": "style/style.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "test/components/app_test.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "test/test_helper.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "webpack.config.js"
+                }
+            ]
+        }
+    ]
+}
